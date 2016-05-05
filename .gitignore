@@ -1,0 +1,15 @@
+.idea/
+s3.iml
+target/
+
+.DS_Store
+
+sample.iml
+
+pom.xml
+
+sample.ipr
+
+sample.iws
+
+src/com/s3/Main.java
